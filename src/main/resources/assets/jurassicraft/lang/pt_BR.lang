@@ -1,0 +1,620 @@
+//CreativeTabs==================================================
+itemGroup.jurassicraft.items=Jurassicraft Itens
+itemGroup.jurassicraft.itemsFood=Jurassicraft Comidas
+itemGroup.jurassicraft.blocks=Jurassicraft Blocos
+itemGroup.jurassicraft.dnas=Jurassicraft DNA's
+itemGroup.jurassicraft.syringesEggs=Jurassicraft Ovos E Seringas
+itemGroup.jurassicraft.spawnEggs=Jurassicraft Ovos De Invocação
+
+
+
+//Entities======================================================
+
+//Arthropods
+entity.Meganeura.name=Meganeura
+
+//Birds
+entity.Titanis.name=Titanis
+
+//Cephalopods
+entity.Ammonite.name=Amonite
+entity.Brachiopod.name=Braquiópode
+
+//Dinosaurs
+entity.Ankylosaurus.name=Anquilossauro
+entity.Brachiosaurus.name=Braquiossauro
+entity.Velociraptor.name=Velociraptor
+entity.Leaellynasaura.name=Leaellynasaura
+entity.Herrerasaurus.name=Herrerassauro
+entity.Parasaurolophus.name=Parassaurolofo
+entity.Dilophosaurus.name=Dilofossauro
+entity.Oviraptor.name=Oviráptor
+entity.Tyrannosaurus.name=Tiranossauro Rex
+entity.Gallimimus.name=Galimimo
+entity.Hypsilophodon.name=Hipsilofodonte
+entity.Triceratops.name=Tricerátopo
+entity.Stegosaurus.name=Estegossauro
+entity.Dilophosaurus.name=Dilofossauro
+entity.Carnotaurus.name=Carnotauro
+
+//Fish
+entity.Coelacanth.name=Celacanto
+entity.Orthacanthus.name=Orthacanthus
+
+//Mammals
+entity.Mammoth.name=Mamute
+entity.Moeritherium.name=Moeritherium
+entity.Arsinoitherium.name=Arsinoitherium
+entity.Basilosaurus.name=Basilosaurus
+entity.Leptictidium.name=Leptictidium
+entity.Uintatherium.name=Uintatério
+entity.Paraceratherium.name=Paraceratherium
+entity.Deinotherium.name=Dinotério
+
+//Reptiles
+entity.Cearadactylus.name=Cearadáctilo
+entity.Tylosaurus.name=Tilossauro
+entity.Deinosuchus.name=Deinosuchus
+
+//Others
+entity.dino_egg.name=Ovo De Dinossauro
+entity.Santa.name=Papai Noel
+
+
+
+//Entity_Interaction============================================
+entity.interaction.fullGrown=Não pode crescer mais!
+entity.interaction.tamed=Foi domado!
+entity.interaction.isSitting=Está Sentado!
+entity.interaction.isNotSitting=Não está mais sentado!
+entity.riding.notRidable=Não é uma montaria!
+entity.riding.notTamed=Ainda não é domável!
+entity.riding.notAdult=Ainda não é adulto!
+entity.riding.sitting=Está sentado no momento!
+entity.riding.isRiding=Existe alguém montando esta criatura!
+
+
+
+//Items=========================================================
+
+//DNAs
+item.ankylosaurus_DNA.name=DNA De Anquilossauro
+item.brachiosaurus_DNA.name=DNA De Braquiossauro
+item.velociraptor_DNA.name=DNA De Velociraptor
+item.stegosaurus_DNA.name=DNA De Estegossauro
+item.triceratops_DNA.name=DNA De Tricerátopo
+item.coelacanth_DNA.name=DNA De Celacanto
+item.tyrannosaurus_DNA.name=DNA De Tiranossauro
+item.gallimimus_DNA.name=DNA De Galimimo
+item.leaellynasaura_DNA.name=DNA De Leaellynasaura
+item.hypsilophodon_DNA.name=DNA De Hipsilofodonte
+item.tylosaurus_DNA.name=DNA De Tilossauro
+item.meganeura_DNA.name=DNA De Meganeura
+item.herrerasaurus_DNA.name=DNA De Herrerassauro
+item.parasaurolophus_DNA.name=DNA De Parassaurolofo
+item.dilophosaurus_DNA.name=DNA De Dilofossauro
+item.oviraptor_DNA.name=DNA De Oviráptor
+item.cearadactylus_DNA.name=DNA De Cearadáctilo
+item.sarcosuchus_DNA.name=DNA De Sarcosuchus
+item.titanis_DNA.name=DNA De Titanis
+item.mammoth_DNA.name=DNA De Mamute
+item.arsinoitherium_DNA.name=DNA De Arsinotherium
+item.basilosaurus_DNA.name=DNA De Basilosaurus
+item.leptictidium_DNA.name=DNA De Lepticidío
+item.uintatherium_DNA.name=DNA De Uintatério
+item.paraceratherium_DNA.name=DNA De Paracetherium
+item.deinotherium_DNA.name=DNA De Dinotério
+item.moeritherium_DNA.name=DNA De Moeritherium
+item.deinosuchus_DNA.name=DNA De Deinosuchus
+item.brachiopod_DNA.name=DNA De Braquiópode
+item.ammonite_DNA.name=DNA De Amonite
+item.orthacanthus_DNA.name=DNA De Orthacanthus
+item.carnotaurus_DNA.name=DNA De Carnotauro
+
+//Eggs
+item.Brachiosaurus_Egg.name=Ovo De Braquiossauro
+item.Velociraptor_Egg.name=Ovo De Velociraptor
+item.Ankylosaurus_Egg.name=Ovo De Anquilossauro
+item.Stegosaurus_Egg.name=Ovo De Estegossauro
+item.Triceratops_Egg.name=Ovo De Tricerátopo
+item.Coelacanth_Egg.name=Ovo De Celacanto
+item.Tyrannosaurus_Egg.name=Ovo De Tiranossauro
+item.Oviraptor_Egg.name=Ovo De Oviráptor
+item.Dilophosaurus_Egg.name=Ovo De Dilofossauro
+item.Parasaurolophus_Egg.name=Ovo De Parassaurolofo
+item.Herrerasaurus_Egg.name=Ovo De Herrerassauro
+item.Meganeura_Egg.name=Ovo De Meganeura
+item.Tylosaurus_Egg.name=Ovo De Tilossauro
+item.Hypsilophodon_Egg.name=Ovo De Hipsilofodonte
+item.Leaellynasaura_Egg.name=Ovo De Leaellynasaura
+item.Gallimimus_Egg.name=Ovo De Galimimo
+item.Cearadactylus_Egg.name=Ovo De Cearadáctilo
+item.Sarcosuchus_Egg.name=ovo De Sarcosuchus
+item.Titanis_Egg.name=Ovo De Titanis
+item.Deinosuchus_Egg.name=Ovo De Deinosuchus
+item.Brachiopod_Egg.name=Ovo De Braquiópode
+item.Ammonite_Egg.name=Ovo De Amonite
+item.Orthacanthus_Egg.name=Ovo De Orthacanthus
+item.Carnotaurus_Egg.name=Ovo De Carnotauro
+
+//Syringes
+item.Mammoth_Syringe.name=Seringa De Mamute
+item.Arsinoitherium_Syringe.name=Seringa De Arsinotherium
+item.Basilosaurus_Syringe.name=Seringa De Basilosaurus
+item.Leptictidium_Syringe.name=Seringa De Leptictidium
+item.Uintatherium_Syringe.name=Seringa De Uintatério
+item.Paraceratherium_Syringe.name=Seringa De Paraceratherium
+item.Deinotherium_Syringe.name=Seringa De Dinotério
+item.Moeritherium_Syringe.name=Seringa De Moeritherium
+
+//Spawn_Eggs
+item.Brachiosaurus_SpawnEgg.name=Invocar Braquiossauro
+item.Velociraptor_SpawnEgg.name=Invocar Velociraptor
+item.Ankylosaurus_SpawnEgg.name=Invocar Anquilossauro
+item.Stegosaurus_SpawnEgg.name=Invocar Estegossauro
+item.Triceratops_SpawnEgg.name=Invocar Tricerátopo
+item.Coelacanth_SpawnEgg.name=Invocar Celacanto
+item.Tyrannosaurus_SpawnEgg.name=Invocar Tiranossauro 
+item.Oviraptor_SpawnEgg.name=Invocar Oviráptor
+item.Dilophosaurus_SpawnEgg.name=Invocar Dilofossauro
+item.Parasaurolophus_SpawnEgg.name=Invocar Parassaurolofo
+item.Herrerasaurus_SpawnEgg.name=Invocar Herrerassauro
+item.Meganeura_SpawnEgg.name=Invocar Meganeura
+item.Tylosaurus_SpawnEgg.name=Invocar Tilossauro
+item.Hypsilophodon_SpawnEgg.name=Invocar Hipsilofodonte
+item.Leaellynasaura_SpawnEgg.name=Invocar Leaellynasaura
+item.Gallimimus_SpawnEgg.name=Invocar Galimimo
+item.Cearadactylus_SpawnEgg.name=Invocar Cearadáctilo
+item.Sarcosuchus_SpawnEgg.name=Invocar Sarcosuchus
+item.Titanis_SpawnEgg.name=Invocar Titanis
+item.Mammoth_SpawnEgg.name=Invocar Mamute
+item.Arsinoitherium_SpawnEgg.name=Invocar Arsinotherium
+item.Basilosaurus_SpawnEgg.name=Invocar Basilosaurus
+item.Leptictidium_SpawnEgg.name=Invocar Leptictidium
+item.Uintatherium_SpawnEgg.name=Invocar Uintatério
+item.Paraceratherium_SpawnEgg.name=Invocar Paracetherium
+item.Deinotherium_SpawnEgg.name=Invocar Dinotério
+item.Moeritherium_SpawnEgg.name=Invocar Moeritherium
+item.Deinosuchus_SpawnEgg.name=Invocar Deinosuchus
+item.Brachiopod_SpawnEgg.name=Invocar Braquiópode
+item.Ammonite_SpawnEgg.name=Invocar Amonite
+item.Orthacanthus_SpawnEgg.name=Invocar Orthacanthus
+item.Carnotaurus_SpawnEgg.name=invocar Carnotauro
+
+//Meats
+item.Ankylosaurus_Meat.name=Carne De Anquilossauro
+item.Brachiosaurus_Meat.name=Carne De Braquiossauro
+item.Velociraptor_Meat.name=Carne De Velociraptor
+item.Stegosaurus_Meat.name=Carne De Estegossauro
+item.Triceratops_Meat.name=Carne De Tricerátopo
+item.Coelacanth_Meat.name=Celacanto Crú
+item.Tyrannosaurus_Meat.name=Carne De Tiranossauro
+item.Gallimimus_Meat.name=Carne De Galimimo
+item.Leaellynasaura_Meat.name=Carne De Leaellynasaura
+item.Hypsilophodon_Meat.name=Carne De Hipsilofodonte
+item.Tylosaurus_Meat.name=Carne De Tilossauro
+item.Meganeura_Meat.name=Meganeura Crua
+item.Herrerasaurus_Meat.name=Carne De Herrerassauro
+item.Parasaurolophus_Meat.name=Carne De Parassaurolofo
+item.Dilophosaurus_Meat.name=Carne De Dilofossauro
+item.Oviraptor_Meat.name=Carne De Oviráptor
+item.Cearadactylus_Meat.name=Carne De Cearadáctilo
+item.Sarcosuchus_Meat.name=Carne De Sarcosuchus
+item.Titanis_Meat.name=Carne De Titanis
+item.Mammoth_Meat.name=Carne De Mamute
+item.Arsinoitherium_Meat.name=Carne De Arsinotherium
+item.Basilosaurus_Meat.name=Carne De Basilosaurus
+item.Leptictidium_Meat.name=Carne De Leptictidium
+item.Uintatherium_Meat.name=Carne De Uintatério
+item.Paraceratherium_Meat.name=Carne De Paracetherium
+item.Deinotherium_Meat.name=Carne De Dinotério
+item.Moeritherium_Meat.name=Carne De Moeritherium
+item.Deinosuchus_Meat.name=Carne De Deinosuchus
+item.Brachiopod_Meat.name=Carne De Braquiópode
+item.Ammonite_Meat.name=Carne De Amonite
+item.Orthacanthus_Meat.name=Orthacanthus Crú
+item.Carnotaurus_Meat.name=Carne De Carnotauro
+
+//Cooked Meats
+item.Ankylosaurus_Steak.name=Bife De Anquilossauro
+item.Brachiosaurus_Steak.name=Bife De Braquiossauro
+item.Velociraptor_Steak.name=Bife De Velociraptor
+item.Stegosaurus_Steak.name=Bife De Estegossauro
+item.Triceratops_Steak.name=Bife De Tricerátopo
+item.Coelacanth_Steak.name=Celacanto Cozido
+item.Tyrannosaurus_Steak.name=Bife De Tiranossauro 
+item.Gallimimus_Steak.name=Bife De Galimimo
+item.Leaellynasaura_Steak.name=Bife De Leaellynasaura
+item.Hypsilophodon_Steak.name=Bife De Hipsilofodonte
+item.Tylosaurus_Steak.name=Bife De Tilossauro
+item.Meganeura_Steak.name=Meganeura Cozida
+item.Herrerasaurus_Steak.name=Bife De Herrerassauro
+item.Parasaurolophus_Steak.name=Bife De Parassaurolofo
+item.Dilophosaurus_Steak.name=Bife De Dilofossauro
+item.Oviraptor_Steak.name=Bife De Oviráptor
+item.Cearadactylus_Steak.name=Bife De Cearadáctilo
+item.Sarcosuchus_Steak.name=Bife De Sarcosuchus
+item.Titanis_Steak.name=Bife De Titanis
+item.Mammoth_Steak.name=Bife De Mamute
+item.Arsinoitherium_Steak.name=Bife De Arsinotherium
+item.Basilosaurus_Steak.name=Bife De Basilosaurus
+item.Leptictidium_Steak.name=Bife De Lepticidium
+item.Uintatherium_Steak.name=Bife De Uintatério
+item.Paraceratherium_Steak.name=Bife De Paracetherium
+item.Deinotherium_Steak.name=Bife De Dinotério
+item.Moeritherium_Steak.name=Bife De Moeritherium
+item.Deinosuchus_Steak.name=Bife De Deinosuchus
+item.Brachiopod_Steak.name=Bife De Braquiópode
+item.Ammonite_Steak.name=Bife De Amonite
+item.Orthacanthus_Steak.name=Orthacanthus Cozido
+item.Carnotaurus_Steak.name=Bife De Carnotauro
+
+//Fur
+item.Leptictidium_Fur.name=Pêlo De Leptictidium
+
+//Skins
+item.Ankylosaurus_Skin_Male.name=Pele De Anquilossauro
+item.Arsinoitherium_Skin_Male.name=Pele De Arsinotherium
+item.Brachiosaurus_Skin_Male.name=Pele De Braquiossauro
+item.Dilophosaurus_Skin_Male.name=Pele De Dilofossauro
+item.Herrerasaurus_Skin_Male.name=Pele De Herrerassauro
+item.Hypsilophodon_Skin_Male.name=Pele De Hipsilofodonte
+item.Parasaurolophus_Skin_Male.name=Pele De Parassaurolofo
+item.Stegosaurus_Skin_Male.name=Pele De Estegossauro
+item.Triceratops_Skin_Male.name=Pele De Tricerátopo
+item.Tylosaurus_Skin_Male.name=Pele De Tilossauro
+item.Tyrannosaurus_Skin_Male.name=Pele De Tiranossauro 
+item.Velociraptor_Skin_Male.name=Pele De Velociraptor
+
+//Scales
+
+//Feathers
+
+//Bristles
+item.Velociraptor_Bristles.name=Cerdas De Velociraptor
+
+//Skull
+item.Brachiosaurus_Skull.name=Crânio De Braquiossauro
+item.Stegosaurus_Skull.name=Crânio De Estegossauro
+item.Triceratops_Skull.name=Crânio De Tricerátopo
+item.Tyrannosaurus_Skull.name=Crânio De Tiranossauro
+item.Parasaurolophus_Skull.name=Crânio De Parassaurolofo
+item.Dilophosaurus_Skull.name=Crânio De Dilofossauro
+item.Tylosaurus_Skull.name=Crânio De Tilossauro
+item.Cearadactylus_Skull.name=Crânio De Cearadáctilo
+item.Sarcosuchus_Skull.name=Crânio De Sarcosuchus
+item.Titanis_Skull.name=Crânio De Titanis
+item.Meganeura_Skull.name=Endoesqueleto De Meganeura
+item.Carnotaurus_Skull.name=Crânio De Carnotauro
+
+//Tooth
+item.Tyrannosaurus_Tooth.name=Dente De Tiranossauro
+
+//Others
+item.net.name=Liquído
+item.dinopad.name=Dinopad
+item.dinoBone.name=Osso De Dinossauro
+item.dinoSteak.name=Bife De Dinossauro
+item.growthSerum.name=Soro De Crescimento
+item.gypsumPowder.name=Pó De Gesso
+item.AppleOnAStick.name=Maça No Palito
+item.BeefOnAStick.name=Bife No Palito
+item.CarrotOnAStick.name=Cenoura No Palito
+item.FishOnAStick.name=Peixe No Palito
+item.PorkOnAStick.name=Carne De Porco No Palito
+item.WheatOnAStick.name=Trigo No Palito
+item.fossil.name=Fóssil
+item.amber.name=Âmbar
+
+//Info
+item.growthSerum.info=Usado Para Crescer Uma Criatura
+item.egg.info.spawnBaby=Invocar Filhote
+item.egg.info.spawnAdult=Invocar Adulto
+item.egg.info.changeToBaby=Clique Direito Para Invocar Filhote
+item.egg.info.changeToAdult=Clique Direito Para Invocar Adulto
+item.egg.info.spawnSetToBaby=Invocação Definida Para Filhote
+item.egg.info.spawnSetToAdult=Invocação Definida Para Adulto
+item.dinoEgg.info.dna=DNA
+item.dinoEgg.info.quality=Qualidade
+item.dinoEgg.info.qualityChanged=Você É Trapaceiro!Nova Qualidade Alterada Para
+item.dinoEgg.info.errorQuality=Este Ovo Ainda Não Está Pronto!
+item.dna.info.dna=DNA
+item.dna.info.quality=Qualidade
+item.dna.info.errorQuality=ERRO! A Qualidade Do Ovo Ainda Não Foi Determinada!
+item.dna.info.errorCode=ERRO! Sequência De DNA Ainda Não Foi Determinada!
+item.dna.info.qualityChanged=Você É Trapaceiro!Nova Qualidade Alterada Para
+item.dna.info.geneticCodeIs=O Código Genético É
+item.syringe.info.dna=DNA
+item.syringe.info.quality=Qualidade
+item.syringe.info.qualityChanged=Você É Trapaceiro!Nova Qualidade Alterada Para
+item.syringe.info.errorQuality=Essa Seringa Ainda Não Está Pronta
+item.syringe.info.embryoInseminated=Embrião Inseminado
+item.meat.info.dna=DNA
+item.meat.info.dna.none=Sem DNA
+item.meat.info.quality=Qualidade
+item.meat.info.errorQuality=ERRO! Qualidade Do Ovo Não Foi Determinada Ainda!
+item.meat.info.errorCode=ERRO! Seqüência De DNA Não Foi Determinada Ainda!
+item.meat.info.qualityChanged=Você É Trapaceiro!Nova Qualidade Alterada Para
+item.meat.info.geneticCodeIs=O Código Genético É
+item.drop.info.dna=DNA
+item.drop.info.dna.none=Sem DNA
+item.drop.info.quality=Qualidade
+item.drop.info.errorQuality=ERRO! Qualidade Do Ovo Não Foi Determinada Ainda!
+item.drop.info.errorCode=ERRO! Seqüência De DNA Não Foi Determinada Ainda!
+item.drop.info.qualityChanged=Você É Trapaceiro!Nova Qualidade Alterada Para
+item.drop.info.geneticCodeIs=O Código Genético É
+
+
+
+//Blocks========================================================
+tile.cultivate_idle.name=Cultivador
+tile.fernplant.name=Samambaia
+tile.orontiumplant.name=Orontium
+tile.heliconiaplant.name=Helicônia
+tile.black_cultivate.name=Cultivador Preto
+tile.red_cultivate.name=Cultivador Vermelho
+tile.green_cultivate.name=Cultivador Verde
+tile.brown_cultivate.name=Cultivador Marrom
+tile.blue_cultivate.name=Cultivador Azul
+tile.purple_cultivate.name=Cultivador Roxo
+tile.cyan_cultivate.name=Cultivador Ciano
+tile.light_gray_cultivate.name=Cultivador Cinza Claro
+tile.gray_cultivate.name=Cultivador Cinza
+tile.pink_cultivate.name=Cultivador Rosa
+tile.lime_cultivate.name=Cultivador Lima
+tile.yellow_cultivate.name=Cultivador Amarelo
+tile.light_blue_cultivate.name=Cultivador Azul Claro
+tile.magenta_cultivate.name=Cultivador Magenta
+tile.orange_cultivate.name=Cultivador Laranja
+tile.white_cultivate.name=Cultivador Branco
+tile.dnaExtractor.name=Extrator De DNA
+tile.dnaCombinator.name=Combinador De DNA
+tile.fossil_sandstone_ore.name=Fóssil Em Arenito
+tile.fossil_clay_ore.name=Fóssil Em Argila
+tile.fossil_clay_ore_stained_brown.name=Fóssil Embutido Em Argila Marrom Endurecida
+tile.fossil_clay_ore_stained_orange.name=Fóssil Embutido Em Argila Laranja Endurecida
+tile.fossil_clay_ore_stained_red.name=Fóssil Embutido Em Argila Vermelha Endurecida
+tile.fossil_clay_ore_stained_silver.name=Fóssil Embutido Em Argila Cinza Claro Endurecida
+tile.fossil_clay_ore_stained_white.name=Fóssil Embutido Em Argila Branca Endurecida
+tile.fossil_clay_ore_stained_yellow.name=Fóssil Embutido Em Argila Amarela Endurecida
+tile.block_Gypsum_Block.name=Bloco De Gipsita
+tile.block_Gypsum_Brick.name=Tijolos De Gipsita
+tile.block_Gypsum_CobbleStone.name=Pedregulho De Gipsita
+tile.fossil_ore.name=Fóssil
+tile.amber_ore.name=Ambâr
+tile.low_Security_Fence_Main.name=Cerca De Baixa Segurança:Ângulo
+tile.low_Security_Fence_Base.name=Cerca De Baixa Segurança:Base
+tile.low_Security_Fence_Grid.name=Cerca De Baixa Segurança:Grade
+tile.low_Security_Fence_Pole.name=Cerca De Baixa Segurança:Poste
+tile.medium_Security_Fence_Main.name=Cerca De Média Segurança:Ângulo
+tile.medium_Security_Fence_Base.name=Cerca De Média Segurança:Base
+tile.medium_Security_Fence_Grid.name=Cerca De Média Segurança:Grade
+tile.medium_Security_Fence_Pole.name=Cerca De Média Segurança:Poste
+tile.high_Security_Fence_Main.name=Cerca De Alta Segurança:Ângulo
+tile.high_Security_Fence_Base.name=Cerca De Alta Segurança:Base
+tile.high_Security_Fence_Grid.name=Cerca De Alta Segurança:Grade
+tile.high_Security_Fence_Pole.name=Cerca De Alta Segurança:Poste
+
+
+
+//Containers====================================================
+container.cultivator.stopCultivating=Parou De Cultivar
+container.cultivator.cultivating=Cultivando
+container.cultivator.progress=Progresso
+container.dnaExtractor=Extrator De DNA
+container.dnaCombinator=Combinador De DNA
+container.fence.security.none=Ainda Não Foi Construída
+container.fence.security.low=Cerca De Baixa Segurança
+container.fence.security.medium=Cerca De Média Segurança
+container.fence.security.high=Cerca De Alta Sergurança
+container.fence.noDirection=Não Foi Definido
+container.fence.south=Sul
+container.fence.west=Oeste
+container.fence.north=Norte
+container.fence.east=Leste
+container.fence.buildFence=Construir Muros
+container.fence.fixFence=Ajustar Muros
+container.fence.fenceOn=Ligar Cerca Elétrica
+container.fence.noRedstone=Sem Pó De Redstone
+container.fence.noIronIngots=Sem Lingotes De Ferro
+container.fence.notBroken=A Cerca Não Está Quebrada
+container.fence.pathBlocked=Caminho Obstruído
+container.fence.baseIsWrong=A Base Está Errada
+container.pad.creature=Criatura
+container.pad.years=Anos,
+container.pad.months=Meses, 
+container.pad.days=Dias
+container.pad.year=Anos, 
+container.pad.month=Meses, 
+container.pad.day=Dias
+container.pad.health=Vitalidade
+container.pad.attack=Ataque
+container.pad.speed=Velocidade
+container.pad.height=Altura
+container.pad.length=Comprimento
+container.pad.owner=Dono
+container.pad.ridable=Montável
+container.pad.none=Nenhum
+container.pad.maxHealth=Vitalidade Máxima
+container.pad.maxLength=Comprimento Máximo
+container.pad.maxHeight=Altura Máxima
+container.pad.egg.hatching=Eclodindo
+container.pad.egg.notHatching=O Ovo Não Está Enclodindo
+container.pad.egg.dried=Muito Quente
+container.pad.egg.frozen=Muito Frio
+container.pad.egg.dnaCode=DNA
+container.pad.egg.dnaQuality=Qualidade De DNA
+container.pad.pregnancy.pregnantCow=Vaca Grávida
+container.pad.pregnancy.pregnantPig=Porca Grávida
+container.pad.pregnancy.pregnantHorse=Égua Grávida
+container.pad.pregnancy.pregnantSheep=Ovelha Grávida
+container.pad.pregnancy.cow=Vaca
+container.pad.pregnancy.pig=Porca
+container.pad.pregnancy.horse=Égua
+container.pad.pregnancy.sheep=Ovelha
+container.pad.pregnancy.noEmbryo=Sem Embrião
+container.pad.pregnancy.dnaCode=DNA
+container.pad.pregnancy.dnaQuality=Qualidade De DNA
+
+//Dinopad_Info
+container.pad.info.Ankylosaurus.page1=Anquilossauro, que significa "lagarto fundido", é um género de dinossauro da familia ankylosauridea. Fósseis de anquilossauro são encontrados em formações geológicas que datam do fim do período Cretáceo, entre 66,5 e 66,0 milhões de anos atrás, no oeste da América do Norte.
+container.pad.info.Ankylosaurus.page2=Anquilossauro era um animal grande para os padrões modernos, estimados em comprimentos de 9 m (30 pés) e pesando até 6 toneladas (13.000 libras). O animal inteiro é estimado em 6,25 m (20,5 pés) de comprimento, 1,5 m (4,9 pés) de largura e 1,7 m (5,6 pés) de altura no quadril.
+container.pad.info.Ankylosaurus.page3=A Cauda Do Anquilossauro É Composta Por Vários Osteordemos(Placas Osséas)Que São Fundidos Com As Vértebras Da Cauda,Que Formam A Rigidez Da Clava,Um Golpe Dessa Clava Poderia Quebrar A Perna De Um Tiranossauro!
+container.pad.info.Brachiosaurus.page1=Braquiossauro É Um Gênero De Dinossauro Saurópode Da Era Jurássica,De Morrison Na America Do Norte, Foi Descrita Pela Primeira Vez Por Elmer S. Riggs Em 1903 Dos Fósseis Encontrados No Grand River Canyon (Agora Rio Colorado) De Colorado Ocidental, Nos Estados Unidos. 
+container.pad.info.Brachiosaurus.page2=As Proporções Do Braquiossauro São Desiguais Da Maioria Dos Saurópodes.Os Membros Dianteiros Eram Mais Longos Do Que Os Membros Posteriores,O Que Resultou Em Um Tronco Muito Inclinado, e sua cauda era menor em proporção ao seu pescoço do que outros saurópodes do jurássico. 
+container.pad.info.Velociraptor.page1=Velociraptor "Ladrão Veloz" Viveu Durante No Final Do Périodo Cretáceo,Assim Como Outros Dromaeossaurideos Como O Deinonico,Possuia Uma Garra Em Formato De Foice Em Cada Pata Traseira,Usado Para "Danificar" Suas Presas Como O Protoceratops,Era Extremamente Inteligente E Caçava Em Bandos.
+container.pad.info.Stegosaurus.page1=Estegossauro,Que Significa "Lagarto Telhado",Em Referência A Suas Placas Ósseas,É Um Gênero De Dinossauro Herbívoro E Quadrúpede Que Viveu No Fim Do Período Jurássico,Encontrado Na América Do Norte Ocidental,E Em Partes De Portugal
+container.pad.info.Stegosaurus.page2=A Sua Matriz De Placas E Picos Tem Sido Objecto De Muita Especulação.Os Picos Foram Provavelmente Mais Utilizada Para A Defesa,Ao Passo Que As Placas Têm Também Sido Proposta Como Um Mecanismo De Defesa,Bem Como Ter Funções De Exibição E De Termorregulação
+container.pad.info.Triceratops.page1=Tricerátopo,"Cabeça Com Três Chifres",É Um Gênero De Dinossauro Herbívoro Do  Que Apareceu Pela Primeira Vez Durante A Fase Maastrichtian Final Do Período Cretáceo,Cerca De 68 Milhões De Anos No Que Hoje É A América do Norte.
+container.pad.info.Triceratops.page2=Tricerátopo Estima-se Que Atingiu Cerca De 8,0-9,0 Metros De Comprimento, 2,8 a 3,0 Metros De Altura, e 6,0-12,0 Toneladas Em Peso,Foi A Presa Mais Comum Do Témivel Tiranossauro!
+container.pad.info.Coelacanth.page1=Celacanto Constitui Em Uma Ordem Rara De Peixe Que Inclui Duas Espécies Existentes No Gênero:O Celacanto Latimeria (Oeste Do Oceano Índico) E Do Celacanto Indonésico.
+container.pad.info.Tyrannosaurus.page1=O Tiranossauro,Significado "Lagarto Tirano",É Um Gênero de Dinossauro Terópode.O Tiranossauro Viveu Durante Todo O Que É Agora América Do Norte Ocidental,Que Então Era Um Continente Ilha Chamado Laramidia.Tiranossauro Rex Tinha Uma Escala Muito Mais Larga Do Que Outros Tiranossaurídeos,
+container.pad.info.Tyrannosaurus.page2=Fósseis São Encontrados Em Uma Variedade De Formações De Rocha Que Datam Da Idade Maastrichtian Do Período Cretáceo Superior, 67-66000000 Anos Atrás.
+container.pad.info.Gallimimus.page1=Galimimo "Imitador De Galinha",Foi Um Dinossauro Onivóro Do Périodo Cretáceo,Seu Apelido Deriva De Seu Modo De Correr E Seu Corpo,Onde Acreditam-Se Que Este Dinossauro Corria Como Avestruzes Mas Como Andar De Galinhas Super-Velozes,Fósseis Foram Encontrados Na Ásia Especialmente Na Mongólia.
+container.pad.info.Hypsilophodon.page1=Hipsilofodonte "Dente Pontudo" Foi Um Dinossauro Herbívoro E Bipede Que Viveu Durante O Fim Do Jurássico Até O Inicio Do Cretáceo,Era Pequeno E Agil,Suas Pernas Eram Longas,A Cauda Comprida E Fixa,Os Braços Curtos E As Mão Cinco Dedos Habilidosos Para Conseguir Arracar Plantas Rasteiras.
+container.pad.info.Leaellynasaura.page1=Leaellynasaura Viveu No Cretáceo Inferior,Na Austrália E Antártida(Quando Estes Eram Unidos),Possuia Uma Visão Excepcional Podendo Enxergar Tranquilamente No Escuro
+container.pad.info.Herrerasaurus.page1=Herrerassauro Foi Um Dos Primeiros Dinossauros.Seu Nome Significa "lagarto de Herrera",Após O Fazendeiro Que Descobriu o Primeiro Espécime. Todos Os Fósseis Conhecidos Deste Carnívoro Foram Descobertas Em Rochas De Idade Carniano,231.400 Mil Anos Atrás,No Noroeste Da Argentina.
+container.pad.info.Herrerasaurus.page2=Herrerassauro Era Um Carnívoro Bípede Levemente Construído Com Uma Longa Cauda E Uma Cabeça Relativamente Pequena.Seu Comprimento É Estimado Em 3 A 6 Metros (10 a 20 Pés),E Sua Altura Do Quadril Em Mais De 1,1 Metros (3,3 Pés).Pode Ter Pesado Em Torno De 210-350 Quilogramas (463-772 libras).
+container.pad.info.Parasaurolophus.page1=Parassaurolofo "Lagarto Com Cristas Paralelas" Foi Um Dinossauro Herbívoro E Semi-Quadrúpede,Que Viveu No Fim Do Périodo Cretáceo,Viveu Na América Do Norte,Media Cerca De 10 Metros De Comprimento, 4,5 Metros De Altura E Pesava Em Torno De 3 Toneladas.
+container.pad.info.Meganeura.page1=Meganeura Era Uma Espécie De Inseto Primitivo Como As Libélulas Atuais,Com Uma Envergadura De Mais De 75 cm (2,5 pés) De Largura,Foi O Maior Inseto Voador Que Já Viveu Na Terra,Era Um Predador Que,Possivelmente,Se Alimentava De Outros Insetos E Até Mesmo Pequenos Anfíbios E Répteis.
+container.pad.info.Dilophosaurus.page1=Dilophossauro (Dilophosaurus) "Lagarto De Duas Cristas" Foi Um Dinossauro Carnívoro E Bípede Que Viveu Durante O Périodo Jurássico,Media Em Torno De 6 Metros De Comprimento,2 Metros De Altura E Pesava Cerca De 500 Quilogramas.Seus Fósseis Foram Encontrados Na América Do Norte No Arizona,Estados Unidos.
+container.pad.info.Tylosaurus.page1=Tilossauro Foi Um Réptil Marinho Mosassaurídeo Da Ordem Dos Escamados Que Viveu Durante O Período Cretáceo Superior.Possuia Cerca De 15 Metros De Comprimento E Era Um Carnívoro Voraz.Uma Das Características Mais Distintivas Dos Tilossauros foi a extremidade Óssea Dura Do Seu Focinho.
+container.pad.info.Oviraptor.page1=Oviraptor "Ladrão De Ovos" Foi Um Dinossauro Onívoro E Bípede Que Viveu Durante O Périodo Cretáceo,Media Em Torno De 2 Metros De Comprimento,1 Metro De Altura E Pesava Em Torno De 35 Quilogramas.Foi Descoberto No Sul Da Mongólia,Na Mesma Região Em Que Viveu O Protocerátopo.
+container.pad.info.Cearadactylus.page1=Cearadáctilo Foi Um Réptil Pré-Histórico Da Ordem Pterosauria Que Habitou O Atual Nordeste Do Brasil Na Chapada Do Araripe,No Estado Do Ceará.O Cearadáctilo Tinha Cerca De 5,5 Metros De Envergadura Com Peso Estimado De 25 kg.Era Um Réptil Carnívoro,De Crânio Alongado E Mandíbulas Em Forma De Espátula.
+container.pad.info.Mammoth.page1=Mamute Foi Um Mamífero Tal Como Os Elefantes,Estes Animais Apresentavam Tromba E Presas De Marfim Encurvadas,Que Podiam Atingir Cinco Metros De Comprimento,Mas Tinham O Corpo Coberto De Pêlo.
+container.pad.info.Arsinoitherium.page1=Arsinoitherium Pertenceu A Uma Família De Mamíferos Extinto Seus Fósseis Foram Encontrados No Oriente Médio,Na África,Na Ásia E Na Europa.Embora Se Assemelhem Ao Rinoceronte Moderno,Não Guardam Parentesco Próximo Com Eles,E Sim Com Elefantes,Seu Nome Vem Da Rainha Egipcia Arsínoe,"Piramides Fósseis"? 
+container.pad.info.Basilosaurus.page1=Basilosaurus Foi Um Gênero De Cetáceo Primitivo,Seus Fósseis Foram Encontrados No Estados Unidos,Egito E Paquistão.Ele Possuía Uma Grande Depressão Óssea No Topo Do Crânio Que Servia Para Detectar Qualquer Objeto Que Nadasse Por Perto (provocava um eco)Alimentava-se De Peixes E Mamíferos Marinhos.
+container.pad.info.Leptictidium.page1=Leptictidium Foi Um Gênero De Mamífero,Estes Mediam Entre 60 E 90 Centímetros,Tinha Corpo Pequeno,Pernas Traseiras Similares Ás Das Aves,Que Lhe Permitiam Andar Sem Auxílio De Membros Dianteiros,Alguns Fósseis Conservaram Restos De Alimentos Ingeridos Como Insetos,Lagartos E Plantas.
+container.pad.info.Titanis.page1=Titanis Foi Uma Ave Predadora Não Voadora Que Se Pensa Ter Vivido Num Período Entre 5 a 1.8 Milhões De Anos Atrás Na América Do Norte E Do Sul,Essa Ave Do Terror É Originária Da América Do Sul,Mas Migrou Para A América Do Norte,Durante O Grande Intercâmbio Com Outros Animais Pré-Históricos.
+container.pad.info.Uintatherium.page1=Uitatério Foi Um Mamífero Pré-Histórico Que Viveu Há Cerca De 50 Milhões De Anos,Possuía Três Pares De Protuberâncias Ósseas No Alto Do Crânio,Que Lhe Propiciavam Uma Ferramenta Para Sua Defesa Contra Predadores,E Caninos Longos E Poderosos Para Defesa Contra Predadores E Disputas Entre Machos.
+container.pad.info.Paraceratherium.page1=Paraceratherium "rinoceronte-girafa" Foi Um Gigantesco Rinoceronte Extinto,(Sendo O Maior Mamífero Terrestre Que Hábitou A Terra),Viveu Na Ásia,chegava a pesar mais de 17 tonenalas, 5,5 Metros De Altura E 9 De Comprimento,Uma Verdadeira Girafa Tanque!
+container.pad.info.Deinotherium.page1=Dinotério Foi Um Mamífero Herbívoro,Parente Dos Elefantes Atuais,Mediam Entre 3,5 e 4 m De Altura E Tinham Grandes Presas Curvadas Para Baixo,Usada Provavelmente Para Arrancar Cascas De Árvores,Foi O Segundo Maior Mamífero Terrestre Que Habitou A Terra!
+container.pad.info.Deinosuchus.page1=Deinosuchus É Um Gênero Extinto De Crocodilo Do Cretáceo Que Viveu Na América Do Norte,Pensaram Durante Várias Décadas Que Ele Era O Maior Crocodiliano Que já Viveu Na Terra,Mas Outras Espécies Como O Sarcosuchus Revela Outras Dimensões Ainda Maiores,Mas O Deinosuchus É O Unico Crocodiliano Com Fóssil Completo.
+container.pad.info.Brachiopod.page1=Braquiópode São Animais Solitários,Exclusivamente Marinhos,Póssuem 5 Milímetros A 8 Centímetros De Largura,Mas Algumas Formas Fósseis Atingiram 30 Centímetros.
+container.pad.info.Ammonite.page1=Amonite Constitue Um Grupo Extinto De Moluscos Cefalópodes Surgido No Período Devónico,Eram Animais Marinhos Dimensões Muito Variáveis,Desde Alguns Centímetros A Um Metro De Diâmetro,Vivia Numa Concha Espiralada Carbonatada Assim Como O Nautílo Atual.
+container.pad.info.Orthacanthus.page1=Orthacanthus É Um Gênero Extinto De Tubarões De Água Doce De Uma Família De Tubarões Pré-Históricos Conhecidos Como Xenacanthus,Uma Otíma Observação Sobre Estes Animais Era O Enorme "Chifre" Em Sua Cabeça Usada Para Golpear Entidades Próximas.
+container.pad.info.Carnotaurus.page1=Carnotaurus "Touro Carnívoro" Foi Uma Espécie De Dinossauro Carnívoro E Bípede Que Viveu Durante O Período Cretáceo,Principalmente Na Região Que É Hoje A América Do Sul,Media Em Torno De 7,6 Metros De Comprimento E 3 De altura,Pesava Em Torno De Uma Tonelada,Viveu Na Argentina E No Brasil. 
+
+//Commands
+commands.spawndino.usage=/spawndino <dino> [x] [y] [z] [adult]
+
+//Carboniferous
+
+tile.carbon.portal.name=Portal Carbonífero
+tile.carbon.grinder.name=Amolador
+tile.carbon.dirt.name=Terra
+tile.carbon.dirt.1.name=Bloco De Terra
+tile.carbon.grass.name=Bloco De Grama
+tile.carbon.timeBox.name=Timebox
+tile.carbon.antHill.name=Formigueiro
+tile.carbon.stairsLepidodendron.name=Escadas De Lepidodendron
+tile.carbon.stairsCalamites.name=Escadas De Calamité
+tile.carbon.stairsCordaites.name=Escadas De Cordaites
+tile.carbon.stairsSigillaria.name=Escadas De Sigillaria
+tile.carbon.stairsGraniteBrick.name=Escadas De Tijolos De Granito
+tile.carbon.stairsLimestoneBrick.name=Escadas De Tijolo De Calcário
+tile.carbon.sand.name=Areia
+tile.carbon.clearGlass.name=Vidro Transparente
+tile.carbon.vine.name=Videiras
+tile.carbon.tallgrass.name=Samambaia
+tile.carbon.compressor.name=Compressor (WIP)
+tile.carbon.tilledDirt.name=Terra Lavrada
+tile.carbon.multiBlock1.0.name=Granito
+tile.carbon.multiBlock1.1.name=Pedregulho De Granito
+tile.carbon.multiBlock1.2.name=Tijolos De Granito
+tile.carbon.multiBlock1.3.name=Calcário
+tile.carbon.multiBlock1.4.name=Tijolos De Calcário
+tile.carbon.multiBlock1.5.name=Sedimento
+tile.carbon.multiBlock1.6.name=Fósseis
+tile.carbon.multiBlock1.7.name=Minério De Ouro
+tile.carbon.multiBlock1.8.name=Minério De Hematita
+tile.carbon.multiBlock1.9.name=Minério De Pirita
+tile.carbon.multiBlock1.10.name=Minério De Diamante
+tile.carbon.multiBlock1.11.name=Minério De Ouro
+tile.carbon.multiBlock1.12.name=Minério De Hematita
+tile.carbon.multiBlock1.13.name=Minério De Pirita
+tile.carbon.multiBlock1.14.name=Bloco De Pirita
+tile.carbon.multiBlock2.0.name=Pedra Do Sol De Granito
+tile.carbon.multiBlock2.1.name=Pedra Do Sol De Granito
+tile.carbon.multiBlock2.2.name=Granito Talhado
+tile.carbon.multiBlock2.3.name=Azulejo De Granito
+tile.carbon.multiBlock2.4.name=Azulejo De Calcário
+tile.carbon.multiBlock2.5.name=Azulejo Xadrez
+tile.carbon.multiBlock2.6.name=Minério De Carbono
+tile.carbon.multiBlock2.7.name=Calcário Talhado
+tile.carbon.multiBlock2.8.name=Tijolos De Pirita
+tile.carbon.multiBlock2.9.name=Bloco De Hematita
+tile.carbon.multiBlock2.10.name=Calcário Decorativo
+tile.carbon.multiBlock2.11.name=Basalto
+tile.carbon.multiBlock2.12.name=Tijolos De Basalto
+tile.carbon.multiBlock2.13.name=Granito Palmado
+tile.carbon.multiBlock2.14.name=Basalto Talhado
+
+tile.carbon.multiBlock3.0.name=Bloco De Meteorito
+tile.carbon.multiBlock3.1.name=Minério De Meteorito Claro
+tile.carbon.multiBlock3.2.name=Minério De Meteorito Vermelho
+tile.carbon.multiBlock3.3.name=Basalto Encrustado Em Diamante
+
+tile.carbon.wood.0.name=Madeira De Lepidodendron
+tile.carbon.wood.1.name=Madeira De Calamité
+tile.carbon.wood.2.name=Madeira De Cordaites
+tile.carbon.wood.3.name=Madeira De Sigillaria
+tile.carbon.planks.0.name=Tábuas De Lepidodendron
+tile.carbon.planks.1.name=Tábuas De Calamité
+tile.carbon.planks.2.name=Tábuas De Cordaites
+tile.carbon.planks.3.name=Tábuas De Sigillaria
+tile.carbon.leaves.1.0.name=Folhas De Lepidodendron
+tile.carbon.leaves.1.1.name=Folhas De Calamité
+tile.carbon.leaves.1.2.name=Folhas De Cordaites
+tile.carbon.leaves.1.3.name=Folhas De Sigillaria
+tile.carbon.sapling.0.name=Muda De Lepidodendron
+tile.carbon.sapling.1.name=Muda De Calamité
+tile.carbon.sapling.2.name=Muda De Cordaites
+tile.carbon.sapling.3.name=Muda De Sigillaria
+tile.carbon.woodSlab.lepidodendron.name=Laje De Madeira De Lepidodendron
+tile.carbon.woodSlab.calamites.name=Laje De Madeira De Calamité 
+tile.carbon.woodSlab.cordaites.name=Laje De Madeira De Cordaites
+tile.carbon.woodSlab.sigillaria.name=Laje De Madeira De Sigillaria
+tile.carbon.wallsRock.0.name=Muro De Granito
+tile.carbon.wallsRock.1.name=Muro De Pedregulho De Granito
+tile.carbon.wallsRock.2.name=Muro De Tijolos De Granito
+tile.carbon.wallsRock.3.name=Muro De Calcário
+tile.carbon.wallsRock.4.name=Muro De Tijolos De Calcário
+tile.carbon.wallsRock.5.name=Muro De Terra
+tile.carbon.pillars.0.name=Pilar De Granito
+tile.carbon.pillars.1.name=Pilar De Calcário
+tile.carbon.pillars.2.name=Pilar De Basalto
+tile.carbon.coral.0.name=Coral Tabulado
+tile.carbon.coral.1.name=Coral Cérebro
+tile.carbon.coral.2.name=Coral Vermelho
+tile.carbon.coral.3.name=Rocha De Coral
+tile.carbon.coral.4.name=Coral Brilhante
+item.carbon.flippers.name=Nadadeiras
+item.carbon.rawDragonfly.name=Libélula
+item.carbon.cookedDragonfly.name=Libélula Cozida
+item.carbon.rawAmphibian.name=Carne De Anfíbio Crua
+item.carbon.cookedAmphibian.name=Carne De Anfíbio Cozida
+item.carbon.multipleItems.1.name=Pedaços De Ferro
+item.carbon.multipleItems.2.name=Minério De Ferro Aglomerado
+item.carbon.multipleItems.3.name=Cristal De Pirita
+item.carbon.multipleItems.4.name=Hematita
+item.carbon.multipleItems.5.name=Timerodi
+item.carbon.multipleItems.6.name=Concha De Amonite
+item.carbon.multipleItems.7.name=Concha De Braquiópode
+item.carbon.multipleItems.8.name=Perola
+item.carbon.multipleItems.9.name=Engrenagem De Granito
+item.carbon.multipleItems.10.name=Pele De Anfíbio
+item.carbon.multipleItems.11.name=Dente De Tubarão
+item.carbon.multipleItems.12.name=Asas De Libélula
+item.carbon.multipleItems.13.name=Pó De Carbono
+item.carbon.multipleItems.0.name=Porta De Lepidodendron
+item.carbon.multipleItems.14.name=Porta De Calamite
+item.carbon.multipleItems.15.name=Porta De Cordaites
+item.carbon.multipleItems.16.name=Porta De Sigillaria
+item.carbon.multipleItems.17.name=Porta De Pele De Anfíbios
+item.carbon.grindingStones.0.name=Pedra De Moagem
+item.carbon.grindingStones.1.name=Bola De Ferro Para Moagem
+item.carbon.rawAnt.name=Formiga
+item.carbon.cookedAnt.name=Formiga Cozida
+
+container.grinder=Amolador

@@ -1,0 +1,26 @@
+[
+	{
+		"modid": "jurassicraft",
+		"name": "JurassiCraft",
+		"description": "JurassiCraft is a mod made to bring prehistoric creatures to the world of Minecraft. It is inspired by Jurassic Park, but is not limited to all JP canon: as many creatures and features as possible will be added! Creatures are made Jurassic Park style, by obtaining fossils or amber, using the fossils or amber to create DNA, inserting the DNA into eggs, and hatching the eggs",
+		"version": "${version}",
+		"mcversion": "1.7.10",
+		"url": "https://ilexiconn.net/",
+		"authorList":
+		[
+			"iLexiconn",
+			"TheLarsinator",
+			"Click_Me",
+			"Gegy1000",
+			"RafaMv",
+			"JTGhawk137"
+		],
+		"credits": "JurassiCraft Team"
+	},
+	{
+		"modid":"jcanimation",
+		"name":"JCAnimationAPI",
+		"version":"1.2.4",
+		"parent":"jurassicraft"
+	}
+]

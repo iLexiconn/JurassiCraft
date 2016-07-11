@@ -1,0 +1,273 @@
+//CreativeTabs==================================================
+itemGroup.jurassicraft.items=JurassiCraft Items
+itemGroup.jurassicraft.itemsFood=JurassiCraft Food
+itemGroup.jurassicraft.blocks=JurassiCraft Blocks
+itemGroup.jurassicraft.dnas=JurassiCraft DNA's
+itemGroup.jurassicraft.syringesEggs=JurassiCraft Syringes & Eggs
+itemGroup.jurassicraft.spawnEggs=JurassiCraft Spawn Eggs
+
+//Entities======================================================
+
+//Arthropods
+entity.Meganeura.name=Meganeura
+
+//Birds
+entity.Titanis.name=Titanis
+
+//Cephalopods
+entity.Ammonite.name=Ammonite
+entity.Brachiopod.name=Brachiopod
+
+//Dinosaurs
+entity.Ankylosaurus.name=Ankylosaurus
+entity.Brachiosaurus.name=Brachiosaurus
+entity.Velociraptor.name=Velociraptor
+entity.Leaellynasaura.name=Leaellynasaura
+entity.Herrerasaurus.name=Herrerasaurus
+entity.Parasaurolophus.name=Parasaurolophus
+entity.Dilophosaurus.name=Dilophosaurus
+entity.Oviraptor.name=Oviraptor
+entity.Tyrannosaurus.name=Tyrannosaurus rex
+entity.Gallimimus.name=Gallimimus
+entity.Hypsilophodon.name=Hypsilophodon
+entity.Triceratops.name=Triceratops
+entity.Stegosaurus.name=Stegosaurus
+entity.Dilophosaurus.name=Dilophosaurus
+entity.Carnotaurus.name=Carnotaurus
+entity.Stegosaurus.name=Stegosaurus
+entity.Spinosaurus.name=Spinosaurus
+
+//Fish
+entity.Coelacanth.name=Coelacanth
+entity.Orthacanthus.name=Orthacanthus
+
+//Mammals
+entity.Mammoth.name=Mammoth
+entity.Moeritherium.name=Moeritherium
+entity.Arsinoitherium.name=Arsinoitherium
+entity.Basilosaurus.name=Basilosaurus
+entity.Leptictidium.name=Leptictidium
+entity.Uintatherium.name=Uintatherium
+entity.Paraceratherium.name=Paraceratherium
+entity.Deinotherium.name=Deinotherium
+
+//Reptiles
+entity.Cearadactylus.name=Cearadactylus
+entity.Tylosaurus.name=Tylosaurus
+entity.Deinosuchus.name=Deinosuchus
+
+//Others
+entity.dino_egg.name=Dino Egg
+entity.santa.name=Santa Claws
+
+//Entity_Interaction============================================
+entity.interaction.fullGrown=cannot grow anymore
+entity.interaction.tamed=was tamed!
+entity.interaction.isSitting=is sitting
+entity.interaction.isNotSitting=is not sitting anymore
+entity.riding.notRidable=is not ridable
+entity.riding.notTamed=is not tamed yet
+entity.riding.notAdult=is not an adult yet
+entity.riding.sitting=is sitting at the moment
+entity.riding.isRiding=There is someone already riding this creature
+
+//Items=========================================================
+
+item.dino_dna.name=DNA
+item.dino_egg.name=Egg
+item.dino_syringe.name=Syringe
+item.dino_spawn_egg.name=Spawn Egg
+item.dino_meat.name=Meat
+item.dino_steak.name=Steak
+item.dino_fur.name=Fur
+item.skin_male.name=Skin
+item.dino_bristles.name=Bristles
+item.dino_skull.name=Skull
+item.dino_tooth.name=Tooth
+
+//Others
+item.net.name=Net
+item.dinopad.name=Dinopad
+item.dinoBone.name=Dinosaur Bone
+item.dinoSteak.name=Dinosaur Steak
+item.growthSerum.name=Growth Serum
+item.gypsumPowder.name=Gypsum Powder
+item.AppleOnAStick.name=Apple On A Stick
+item.BeefOnAStick.name=Beef On A Stick
+item.CarrotOnAStick.name=Apple On A Stick
+item.FishOnAStick.name=Fish On A Stick
+item.PorkOnAStick.name=Pork On A Stick
+item.WheatOnAStick.name=Wheat On A Stick
+item.fossil.name=Fossil
+item.amber.name=Amber
+
+//Info
+item.growthSerum.info=Used to grow a creature
+
+lore.baby_dino.name=Sneak + Right Click to spawn baby dinosaur
+
+item.dinoEgg.info.errorQuality=This egg is not ready yet!
+
+item.dna.info.dna=DNA
+item.dna.info.quality=Quality
+item.dna.info.none=No DNA
+
+item.dna.info.errorQuality=ERROR! Egg quality was not determined yet!
+item.dna.info.errorCode=ERROR! DNA sequence was not determined yet!
+item.dna.info.qualityChanged=Force change dna quality to
+item.dna.info.geneticCodeIs=Genetic code is
+
+item.syringe.info.errorQuality=This syringe is not ready yet!
+item.syringe.info.embryoInseminated=Embryo inseminated
+
+//Blocks========================================================
+tile.cultivate_idle.name=Cultivate
+tile.fernplant.name=Fern Plant
+tile.orontiumplant.name=Orontium Plant
+tile.heliconiaplant.name=Heliconia Plant
+tile.black_cultivate.name=Black Cultivate
+tile.red_cultivate.name=Red Cultivate
+tile.green_cultivate.name=Green Cultivate
+tile.brown_cultivate.name=Brown Cultivate
+tile.blue_cultivate.name=Blue Cultivate
+tile.purple_cultivate.name=Purple Cultivate
+tile.cyan_cultivate.name=Cyan Cultivate
+tile.light_gray_cultivate.name=Light Gray Cultivate
+tile.gray_cultivate.name=Gray Cultivate
+tile.pink_cultivate.name=Pink Cultivate
+tile.lime_cultivate.name=Lime Cultivate
+tile.yellow_cultivate.name=Yellow Cultivate
+tile.light_blue_cultivate.name=Light Blue Cultivate
+tile.magenta_cultivate.name=Magenta Cultivate
+tile.orange_cultivate.name=Orange Cultivate
+tile.white_cultivate.name=White Cultivate
+tile.dnaExtractor.name=DNA Extractor
+tile.dnaCombinator.name=DNA Combinator
+tile.fossil_sandstone_ore.name=Sandstone Fossil Ore
+tile.fossil_clay_ore.name=Clay Fossil Ore
+tile.fossil_clay_ore_stained_brown.name= Brown Stained Clay Fossil Ore
+tile.fossil_clay_ore_stained_orange.name=Orange Stained Clay Fossil Ore
+tile.fossil_clay_ore_stained_red.name=Red Stained Clay Fossil Ore
+tile.fossil_clay_ore_stained_silver.name=Light Gray Stained Clay Fossil Ore
+tile.fossil_clay_ore_stained_white.name=White Stained Clay Fossil Ore
+tile.fossil_clay_ore_stained_yellow.name=Yellow Stained Clay Fossil Ore
+tile.block_Gypsum_Block.name=Gypsum Block
+tile.block_Gypsum_Brick.name=Gypsum Brick
+tile.block_Gypsum_CobbleStone.name=Gypsum Cobblestone
+tile.fossil_ore.name=Fossil Ore
+tile.amber_ore.name=Amber Ore
+tile.low_Security_Fence_Main.name=Low Security Fence Corner
+tile.low_Security_Fence_Base.name=Low Security Fence Base
+tile.low_Security_Fence_Grid.name=Low Security Fence Grid
+tile.low_Security_Fence_Pole.name=Low Security Fence Pole
+tile.medium_Security_Fence_Main.name=Medium Security Fence Corner
+tile.medium_Security_Fence_Base.name=Medium Security Fence Base
+tile.medium_Security_Fence_Grid.name=Medium Security Fence Grid
+tile.medium_Security_Fence_Pole.name=Medium Security Fence Pole
+tile.high_Security_Fence_Main.name=High Security Fence Corner
+tile.high_Security_Fence_Base.name=High Security Fence Base
+tile.high_Security_Fence_Grid.name=High Security Fence Grid
+tile.high_Security_Fence_Pole.name=High Security Fence Pole
+tile.clearGlass.name=Clear Glass
+
+
+//Containers====================================================
+container.cultivator.stopCultivating=Stop cultivating
+container.cultivator.cultivating=Cultivating
+container.cultivator.progress=Progress
+container.dnaExtractor=DNA Extractor
+container.dnaCombinator=DNA Combinator
+container.fence.security.none=Nothing built yet
+container.fence.security.low=Low Security Fence
+container.fence.security.medium=Medium Security Fence
+container.fence.security.high=High Security Fence
+container.fence.noDirection=Not defined
+container.fence.south=South
+container.fence.west=West
+container.fence.north=North
+container.fence.east=East
+container.fence.buildFence=Build Fence
+container.fence.fixFence=Fix Fence
+container.fence.fenceOn=Turn the fence off
+container.fence.noRedstone=No redstone dust
+container.fence.noIronIngots=No iron ingots
+container.fence.notBroken=Fence isn't broken
+container.fence.pathBlocked=Obstructed path
+container.fence.baseIsWrong=Base is wrong
+container.pad.creature=Creature
+container.pad.years=years, 
+container.pad.months=months, 
+container.pad.days=days
+container.pad.year=year, 
+container.pad.month=month, 
+container.pad.day=day
+container.pad.health=Health
+container.pad.attack=Attack
+container.pad.speed=Speed
+container.pad.height=Height
+container.pad.length=Length
+container.pad.owner=Owner
+container.pad.ridable=Ridable
+container.pad.none=none
+container.pad.maxHealth=Maximum Health
+container.pad.maxLength=Maximum Length
+container.pad.maxHeight=Maximum Height
+container.pad.egg.hatching=Hatching
+container.pad.egg.notHatching=Egg is not hatching
+container.pad.egg.dried=Too hot
+container.pad.egg.frozen=Too cold
+container.pad.egg.dnaCode=DNA
+container.pad.egg.dnaQuality=DNA quality
+container.pad.pregnancy.pregnantCow=Pregnant Cow
+container.pad.pregnancy.pregnantPig=Pregnant Pig
+container.pad.pregnancy.pregnantHorse=Pregnant Horse
+container.pad.pregnancy.pregnantSheep=Pregnant Sheep
+container.pad.pregnancy.cow=Cow
+container.pad.pregnancy.pig=Pig
+container.pad.pregnancy.horse=Horse
+container.pad.pregnancy.sheep=Sheep
+container.pad.pregnancy.noEmbryo=No embryo
+container.pad.pregnancy.dnaCode=DNA
+container.pad.pregnancy.dnaQuality=DNA quality
+
+//Dinopad_Info
+container.pad.info.Ankylosaurus.page1=Ankylosaurusus, meaning "fused lizard", is a genus of Ankylosaurid dinosaur. Fossils of Ankylosaurus are found in geologic formations dating to the very end of the Cretaceous period, between 66.5 and 66.0 million years ago, in western North America.
+container.pad.info.Ankylosaurus.page2=Ankylosaurusus was a large animal by modern standards, estimated at lengths of 9 m (30 ft) and weighing up to 6 tonnes (13,000 lb). The whole animal is estimated at 6.25 m (20.5 feet) long, 1.5 m (4.9 feet) wide and 1.7 m (5.6 feet) tall at the hip.
+container.pad.info.Ankylosaurus.page3=The tail club of Ankylosaurus is composed of several large osteoderms, which are fused to the last few tail vertebrae. It was heavy and supported by the last seven tail vertebrae, which interlocked to form a stiff rod at the base of the club.
+container.pad.info.Brachiosaurus.page1=Brachiosaurus is a genus of sauropod dinosaur from the Jurassic Morrison Formation of North America. It was first described by Elmer S. Riggs in 1903 from fossils found in the Grand River Canyon (now Colorado River) of western Colorado, in the United States.
+container.pad.info.Brachiosaurus.page2= The proportions of Brachiosaurus are unlike most sauropods. The forelimbs were longer than the hindlimbs, which resulted in a steeply inclined trunk, and its tail was shorter in proportion to its neck than other sauropods of the Jurassic.
+container.pad.info.Velociraptor.page1=Velociraptor
+container.pad.info.Stegosaurus.page1=Stegosaurus, meaning "roof lizard" in reference to its bony plates, is a genus of armored stegosaurid dinosaur. They lived during the Late Jurassic period (Kimmeridgian to early Tithonian), some 155 to 150 million years ago in what is now western North America.
+container.pad.info.Stegosaurus.page2=Its array of plates and spikes has been the subject of much speculation. The spikes were most likely used for defense, while the plates have also been proposed as a defensive mechanism, as well as having display and thermoregulatory functions.
+container.pad.info.Triceratops.page1=Triceratops, "three-horn face", is a genus of herbivorous ceratopsid dinosaur that first appeared during the late Maastrichtian stage of the late Cretaceous period, about 68 million years ago in what is now North America.
+container.pad.info.Triceratops.page2=Triceratops are estimated to have reached about 8.0 to 9.0 meters in length, 2.8 to 3.0 meters in height, and 6.0 to 12.0 tonnes in weight. It shared the landscape with and was probably preyed upon by the fearsome Tyrannosaurus.
+container.pad.info.Coelacanth.page1=Coelacanth constitutes a now rare order of fish that includes two extant species in the genus Latimeria: the West Indian Ocean coelacanth and the Indonesian coelacanth.
+container.pad.info.Tyrannosaurus.page1=Tyrannosaurus, meaning "tyrant lizard", is a genus of coelurosaurian theropod dinosaur. Tyrannosaurus lived throughout what is now western North America, which then was an island continent named Laramidia. Tyrannosaurus had a much wider range than other tyrannosaurids. 
+container.pad.info.Tyrannosaurus.page2=Fossils are found in a variety of rock formations dating to the Maastrichtian age of the upper Cretaceous Period, 67 to 66 million years ago. 
+container.pad.info.Gallimimus.page1=Gallimimus
+container.pad.info.Hypsilophodon.page1=Hypsilophodon
+container.pad.info.Leaellynasaura.page1=Leaellynasaura
+container.pad.info.Herrerasaurus.page1=Herrerasaurus was one of the earliest dinosaurs. Its name means "Herrera's lizard", after the rancher who discovered the first specimen. All known fossils of this carnivore have been discovered in rocks of Carnian age, 231.4 million years ago in northwestern Argentina.
+container.pad.info.Herrerasaurus.page2=Herrerasaurus was a lightly built bipedal carnivore with a long tail and a relatively small head. Its length is estimated at 3 to 6 meters (10 to 20 ft), and its hip height at more than 1.1 meters (3.3 ft). It may have weighed around 210 to 350 kilograms (463 to 772 lb).
+container.pad.info.Parasaurolophus.page1=Parasaurolophus
+container.pad.info.Meganeura.page1=Meganeura
+container.pad.info.Dilophosaurus.page1=Dilophosaurus
+container.pad.info.Tylosaurus.page1=Tylosaurus
+container.pad.info.Oviraptor.page1=Oviraptor
+container.pad.info.Cearadactylus.page1=Cearadactylus
+container.pad.info.Mammoth.page1=Mammoth
+container.pad.info.Arsinoitherium.page1=Arsinoitherium
+container.pad.info.Basilosaurus.page1=Basilosaurus
+container.pad.info.Leptictidium.page1=Leptictidium
+container.pad.info.Titanis.page1=Titanis
+container.pad.info.Uintatherium.page1=Uintatherium
+container.pad.info.Paraceratherium.page1=Paraceratherium
+container.pad.info.Deinotherium.page1=Deinotherium
+container.pad.info.Deinosuchus.page1=Deinosuchus
+container.pad.info.Brachiopod.page1=Brachiopod
+container.pad.info.Ammonite.page1=Ammonite
+container.pad.info.Orthacanthus.page1=Orthacanthus
+container.pad.info.Carnotaurus.page1=Carnotaurus
+
+//Commands
+commands.spawndino.usage=/spawndino <dino> [x] [y] [z] [adult]
